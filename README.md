@@ -1,4 +1,4 @@
-<a href="https://github.com/HichamMiftah"><img width="60%" height="auto" src="https://i.imgur.com/zn5jipy.png" height="175px"/></a>
+<a align="center" href="https://github.com/HichamMiftah"><img width="60%" height="auto" src="https://i.imgur.com/zn5jipy.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hicham</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from 🇲🇦 Morocco.</h3>
 
@@ -36,9 +36,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/hicham-miftah/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 
