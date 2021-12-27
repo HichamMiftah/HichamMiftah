@@ -1,4 +1,4 @@
-<div width="100%"><center><a href="https://github.com/HichamMiftah"><img width="60%" height="auto" src="https://i.imgur.com/zn5jipy.png" height="175px"/></a></center></div>
+<div width="100%" style="display:flex;align-items: center"><center><a href="https://github.com/HichamMiftah"><img width="60%" height="auto" src="https://i.imgur.com/zn5jipy.png" height="175px"/></a></center></div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hicham</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from 🇲🇦 Morocco.</h3>
 
