@@ -1,19 +1,21 @@
 <a href="https://github.com/HichamMiftah"><img width="100%" height="auto" src="https://i.imgur.com/loK6dJP.png" height="175px"/></a>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hicham</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from 🇲🇦 Morocco.</h3>
 
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working in **[Eliott & Markus Africa](https://www.eliott-markus.com/)**
+- 💼 I’m currently working in **[Eliott & Markus Africa](https://www.eliott-markus.com/)**
 
-- 🌱 I’m currently learning **Node Js.**
+- 🎓 I’m currently learning **Node Js.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- ☕️ I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **hicham.work0303@gmail.com**
+- 📧 How to reach me **hicham.work0303@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
+
 
 ## 🚀 Languages and Tools:
 
@@ -31,6 +33,13 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HichamMiftah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+## 📈 Account Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HichamMiftah&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 ## Connect with me:
